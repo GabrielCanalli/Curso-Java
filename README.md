@@ -12,3 +12,4 @@ This repository tracks my journey learning Java, from basic syntax to object-ori
 
 ---
 
+## 📂 Estrutura do Projeto / Project Structure
