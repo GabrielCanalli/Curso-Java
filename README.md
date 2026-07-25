@@ -5,3 +5,5 @@ Repositório dedicado aos meus estudos, códigos práticos e evolução na lingu
 ---
 
 ## 🚀 Sobre o Repositório / About the Repository
+
+Este espaço serve como portfólio da minha evolução técnica em Java, cobrindo desde a sintaxe básica até estruturas mais avançadas da linguagem orientada a objetos.
