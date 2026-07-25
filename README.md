@@ -15,3 +15,5 @@ This repository tracks my journey learning Java, from basic syntax to object-ori
 ## 📂 Estrutura do Projeto / Project Structure
 
 O projeto está organizado por módulos ou aulas práticas:
+
+*src/* — Código-fonte principal em Java.
