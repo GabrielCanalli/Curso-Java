@@ -17,3 +17,4 @@ This repository tracks my journey learning Java, from basic syntax to object-ori
 O projeto está organizado por módulos ou aulas práticas:
 
 *src/* — Código-fonte principal em Java.
+ * Exemplo: aula01/, exercicios/, etc.
