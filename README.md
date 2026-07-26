@@ -21,4 +21,4 @@ O projeto está organizado por módulos ou aulas práticas:
 
 ---
 
-
+## 🛠️ Tecnologias Utilizadas / Technologies Used
