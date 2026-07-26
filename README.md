@@ -31,3 +31,6 @@ O projeto está organizado por módulos ou aulas práticas:
 ---
 
 ## 📈 Status do Projeto / Project Status
+
+
+> 🚧 *Em andamento* (Em constante atualização conforme avanço nos módulos de estudo).
