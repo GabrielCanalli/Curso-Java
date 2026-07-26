@@ -14,8 +14,8 @@ O projeto simula a divisão de setores de uma instituição de ensino:
 * **`Pessoa/`**: Destinado aos diferentes perfis de usuários do sistema, dividindo-se em alunos, coordenadores, fornecedores, funcionários, professores e visitantes.
 * **`Recepcao/`**: Voltado para o atendimento diário, portaria e agendamento de horários.
 
-
-
+---
+---
 
 # IN ENGLISH 🇺🇸
 # 🏫 Theoretical Project: Academic Management System (College)
