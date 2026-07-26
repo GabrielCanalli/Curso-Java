@@ -18,3 +18,7 @@ O projeto está organizado por módulos ou aulas práticas:
 
 *src/* — Código-fonte principal em Java.
  * Exemplo: aula01/, exercicios/, etc.
+
+---
+
+
