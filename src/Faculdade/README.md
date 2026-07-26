@@ -1,3 +1,4 @@
+# EM PORTUGUÊS 🇧🇷
 # 🏫 Projeto Teórico: Sistema de Gestão Acadêmica (Faculdade)
 
 Este diretório contém um exercício prático desenvolvido durante as aulas de Java do curso de Análise e Desenvolvimento de Sistemas (ADS). 
