@@ -27,3 +27,7 @@ O projeto está organizado por módulos ou aulas práticas:
 * *Linguagem:* Java (JDK atualizado)
 * *IDE:* IntelliJ IDEA
 * *Controle de Versão:* Git & GitHub
+
+---
+
+## 📈 Status do Projeto / Project Status
