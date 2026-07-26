@@ -16,8 +16,7 @@ O projeto simula a divisão de setores de uma instituição de ensino:
   
 ---
 ### 👤 Autor
-**Gabriel Canalli**
-
+**Gabriel Canalli**  
 *Estudante de Análise e Desenvolvimento de Sistemas (4º Período)*
 
 
