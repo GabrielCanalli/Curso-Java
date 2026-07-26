@@ -22,3 +22,8 @@ O projeto está organizado por módulos ou aulas práticas:
 ---
 
 ## 🛠️ Tecnologias Utilizadas / Technologies Used
+
+
+* *Linguagem:* Java (JDK atualizado)
+* *IDE:* IntelliJ IDEA
+* *Controle de Versão:* Git & GitHub
