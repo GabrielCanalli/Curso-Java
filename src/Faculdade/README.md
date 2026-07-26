@@ -33,3 +33,8 @@ The project simulates the organizational structure of different departments with
 * **`Administration/`**: Focused on internal management, containing subpackages for course management, finance, and the registrar's office.
 * **`People/`**: Intended for the different user roles in the system, including students, coordinators, suppliers, staff members, professors, and visitors.
 * **`Reception/`**: Responsible for daily reception services, front desk operations, and appointment scheduling.
+
+---
+### 👤 Author
+**Gabriel Canalli**  
+*Systems Analysis and Development Student (4th Semester)*
