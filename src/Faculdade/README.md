@@ -19,6 +19,7 @@ O projeto simula a divisão de setores de uma instituição de ensino:
 **Gabriel Canalli**
 *Estudante de Análise e Desenvolvimento de Sistemas (4º Período)*
 
+
 ---
 ---
 
