@@ -40,3 +40,4 @@ O projeto está organizado por módulos ou aulas práticas:
 ### 👨‍💻 Autor / Author
 
 Feito com 💻 por *Gabriel*  
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
