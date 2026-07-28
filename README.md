@@ -37,3 +37,5 @@ O projeto está organizado por módulos ou aulas práticas:
 
 ---
 
+### 👨‍💻 Autor / Author
+
