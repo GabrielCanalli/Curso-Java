@@ -34,3 +34,8 @@ O projeto está organizado por módulos ou aulas práticas:
 
 
 > 🚧 *Em andamento* (Em constante atualização conforme avanço nos módulos de estudo).
+
+---
+### 👤 Autor
+**Gabriel Canalli**  
+*Estudante de Análise e Desenvolvimento de Sistemas (4º Período)*
