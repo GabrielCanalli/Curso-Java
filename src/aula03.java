@@ -1,3 +1,37 @@
+/**
+ * ------------------------------------------------------------------------
+ * 🏫 Aula 03 - Tipos Primitivos em Java
+ * ------------------------------------------------------------------------
+ * 📌 Resumo da Aula:
+ * - Estudo dos tipos primitivos numéricos inteiros (byte, short, int, long)
+ *   e suas respectivas capacidades e tamanhos em bytes que dobram de escala
+ *   (byte: 1, short: 2, int: 4, long: 8).
+ * - Compreensão sobre os limites de armazenamento e a necessidade do sufixo 'L'
+ *   em literais long para valores que extrapolam o padrão int.
+ * - Estudo dos tipos numéricos reais (float e double), entendendo a inferência
+ *   padrão do compilador para double e a necessidade do sufixo 'F' em floats.
+ * - Uso de outros tipos primitivos essenciais como boolean (lógico) e char (caractere).
+ * - Aplicação prática com operações e exibição de dados no console utilizando
+ *   concatenação e formatação (`printf`).
+ * ------------------------------------------------------------------------
+ * 🇺🇸 Class 03 - Primitive Types in Java
+ * ------------------------------------------------------------------------
+ * 📌 Class Summary:
+ * - Study of integer primitive types (byte, short, int, long) and their
+ *   respective sizes and byte lengths doubling in scale (byte: 1, short: 2,
+ *   int: 4, long: 8).
+ * - Understanding storage limits and the necessity of the 'L' suffix on long
+ *   literals for values exceeding the standard int range.
+ * - Study of floating-point real types (float and double), understanding
+ *   the compiler's default inference to double and the requirement of the 'F' suffix for floats.
+ * - Use of other essential primitive types such as boolean (logical) and char (character).
+ * - Practical application with operations and console output display using
+ *   string concatenation and formatting (`printf`).
+ * ------------------------------------------------------------------------
+ * Autor / Author: Gabriel Canalli
+ * ------------------------------------------------------------------------
+ */
+
 public class aula03 {
 
     public static void main(String[] args) {
